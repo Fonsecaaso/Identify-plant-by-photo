@@ -10,7 +10,7 @@ Trabalho de Conclusão de Curso em desenvolvimento. Estou desenvolvendo modelo d
 
 ## Revisão Bibliográfica
 
-Artigos relevantes no campo de visão computacional:
+#### Artigos relevantes no campo de visão computacional:
 
 1. "ImageNet Classification with Deep Convolutional Neural Networks" de Alex Krizhevsky, Ilya Sutskever e Geoffrey Hinton (2012): Este artigo introduziu o modelo de rede neural convolucional AlexNet, que estabeleceu novos recordes de precisão na classificação de imagens em desafios competitivos, como o ImageNet Large Scale Visual Recognition Challenge (ILSVRC).
 
@@ -22,7 +22,7 @@ Artigos relevantes no campo de visão computacional:
 
 5. "Mask R-CNN" de Kaiming He, Georgia Gkioxari, Piotr Dollár e Ross Girshick (2017): Este artigo introduziu o modelo de rede neural convolucional Mask R-CNN, que combina detecção de objetos e segmentação semântica em uma única rede neural e alcançou alta precisão em desafios de detecção e segmentação de objetos em imagens.
 
-Artigos relevantes na temática de classificação de plantas usando deep learning:
+#### Artigos relevantes na temática de classificação de plantas usando deep learning:
 
 6. "Plant species classification using deep convolutional neural network"
 
@@ -35,7 +35,7 @@ Artigos relevantes na temática de classificação de plantas usando deep learni
 10. "A comprehensive comparison on current deep learning approaches for plant image classification"
 
 
-### Links para consulta:
+#### Links para consulta:
 
 https://www.robots.ox.ac.uk/~vgg/research/flowers/
 
