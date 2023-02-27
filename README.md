@@ -10,6 +10,8 @@ Trabalho de Conclusão de Curso em desenvolvimento. Estou desenvolvendo modelo d
 
 ## Revisão Bibliográfica
 
+Artigos relevantes no campo de visão computacional:
+
 1. "ImageNet Classification with Deep Convolutional Neural Networks" de Alex Krizhevsky, Ilya Sutskever e Geoffrey Hinton (2012): Este artigo introduziu o modelo de rede neural convolucional AlexNet, que estabeleceu novos recordes de precisão na classificação de imagens em desafios competitivos, como o ImageNet Large Scale Visual Recognition Challenge (ILSVRC).
 
 2. "Very Deep Convolutional Networks for Large-Scale Image Recognition" de Karen Simonyan e Andrew Zisserman (2014): Este artigo apresenta o modelo de rede neural convolucional VGG, que foi um dos primeiros a alcançar alta precisão na classificação de imagens em grandes conjuntos de dados, como o ImageNet.
@@ -19,3 +21,21 @@ Trabalho de Conclusão de Curso em desenvolvimento. Estou desenvolvendo modelo d
 4. "Deep Residual Learning for Image Recognition" de Kaiming He, Xiangyu Zhang, Shaoqing Ren e Jian Sun (2016): Este artigo introduziu o modelo de rede neural convolucional ResNet, que utiliza blocos residuais para permitir o treinamento de redes mais profundas e alcançar maior precisão na classificação de imagens.
 
 5. "Mask R-CNN" de Kaiming He, Georgia Gkioxari, Piotr Dollár e Ross Girshick (2017): Este artigo introduziu o modelo de rede neural convolucional Mask R-CNN, que combina detecção de objetos e segmentação semântica em uma única rede neural e alcançou alta precisão em desafios de detecção e segmentação de objetos em imagens.
+
+Artigos relevantes na temática de classificação de plantas usando deep learning:
+
+6. "Plant species classification using deep convolutional neural network"
+
+7. "VGG16 for Plant Image Classification with Transfer Learning and Data Augmentation"
+
+8. "Flower classification using deep convolutional neural networks" 
+
+9. "Simplifying VGG-16 for Plant Species Identification"
+
+10. "A comprehensive comparison on current deep learning approaches for plant image classification"
+
+
+### Links para consulta:
+
+https://www.robots.ox.ac.uk/~vgg/research/flowers/
+https://www.kaggle.com/code/milan400/flowers-classification-using-vgg19
