@@ -38,4 +38,5 @@ Artigos relevantes na temática de classificação de plantas usando deep learni
 ### Links para consulta:
 
 https://www.robots.ox.ac.uk/~vgg/research/flowers/
+
 https://www.kaggle.com/code/milan400/flowers-classification-using-vgg19
