@@ -1,6 +1,6 @@
 # Identify-plant-by-photo
 
-Trabalho de Conclusão de Curso em desenvolvimento. Estou desenvolvendo modelo de rede neural convolucional que classifica a imagem de acordo com a espécie. Estou na fase de montar base de dados, a priori quero usar imagem de flores e árvores brasileiras. Assim que tiver uma base montada irei testar com diferentes modelos de arquiteturas (VGG, Resnet, Inception) e comparar os resultados.
+Trabalho de Conclusão de Curso em desenvolvimento. Estou desenvolvendo modelo de rede neural convolucional que classifica a imagem de acordo com a espécie. Estou na fase de montar base de dados, a priori quero usar imagem de flores e árvores brasileiras. Assim que tiver uma base montada irei testar com diferentes modelos de arquiteturas (VGG, Resnet, Inception) e comparar os resultados. Está no meu radar estudar e aplicar ViT nesse trabalho, visto o impacto que os Transformers estão gerando no campo.
 
 ## Fases
 
@@ -33,6 +33,18 @@ Trabalho de Conclusão de Curso em desenvolvimento. Estou desenvolvendo modelo d
 9. "Simplifying VGG-16 for Plant Species Identification"
 
 10. "A comprehensive comparison on current deep learning approaches for plant image classification"
+
+#### Artigos relevantes na temática de Transformers
+
+11. "Attention Is All You Need" (Vaswani et al., 2017) - Este é o paper original que introduziu o Transformer na comunidade de aprendizado profundo. O paper descreve uma arquitetura baseada em autoatendimento (self-attention) que elimina a necessidade de uma convolução em redes neurais seq2seq, permitindo que o modelo se concentre nas partes relevantes da entrada.
+
+12. "An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale" (Dosovitskiy et al., 2020) - Este é o paper que apresentou o Vision Transformer (ViT), que aplica a arquitetura Transformer diretamente a imagens. O ViT mostrou-se competitivo com as arquiteturas de referência em visão computacional, como a ResNet, e permitiu que a arquitetura Transformer fosse aplicada diretamente a imagens.
+
+13. "Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet" (Han et al., 2021) - Este paper propõe um método mais eficiente de treinamento do ViT, que usa apenas tokens como entrada em vez de patches de imagem, tornando o processo de treinamento mais escalável.
+
+14. "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows" (Liu et al., 2021) - Este paper apresenta o Swin Transformer, uma arquitetura que emprega janelas deslocadas para permitir uma hierarquia de recursos de tamanho crescente, tornando o modelo mais escalável e preciso.
+
+15. "MLP-Mixer: An all-MLP Architecture for Vision" (Tolstikhin et al., 2021) - Este paper propõe uma arquitetura baseada em MLP (Multilayer Perceptron) para imagens que se mostrou tão eficaz quanto o ViT em vários conjuntos de dados de visão, mas sem o alto custo computacional associado ao autoatendimento (self-attention).
 
 
 #### Links para consulta:
